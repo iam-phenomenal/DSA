@@ -6,6 +6,5 @@ function diagonalDifference(arr){
         firstDiag += arr[i][i]
         secondDiag += arr[i][j]
     }
-
     return Math.abs(firstDiag - secondDiag)
 }

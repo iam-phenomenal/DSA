@@ -24,7 +24,3 @@ function verifyDate(date){
     }
     return date
 }
-
-//Test
-let testDate = 123478
-console.log(timeStamp())

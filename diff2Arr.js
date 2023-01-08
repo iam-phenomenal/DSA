@@ -14,9 +14,3 @@ function diffArray(arr1, arr2){
     }
     return difference
 }
-
-
-var arr1 = [3,5,4,8]
-var arr2 = [4,8,9,10]
-
-console.log(diffArray(arr1, arr2))

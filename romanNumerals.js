@@ -11,5 +11,3 @@ function convertRoman(num){
   }
   return result
 }
-
-console.log(convertRoman(698))
