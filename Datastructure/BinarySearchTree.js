@@ -68,19 +68,3 @@ class BST{
         }
     }
 }
-
-/**
- * Testing
-*/
-
-
-//BST CLASS TEST
-
-var myBST = new BST()
-myBST.insert(6)
-myBST.insert(8)
-myBST.insert(3)
-myBST.insert(8)
-myBST.insert(3)
-myBST.insert(89)
-console.log(myBST.search(9))
